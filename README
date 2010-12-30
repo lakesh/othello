@@ -1,0 +1,4 @@
+## Build procedure ##
+To build the project, install maven in your system
+Go to the othello folder
+Type mvn package to build the executable jar inside the target directory
